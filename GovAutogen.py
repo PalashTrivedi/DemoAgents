@@ -1,5 +1,5 @@
 import autogen
-from autogen.agentchat import AssistantAgent, UserProxyAgent
+from DemoAgents.agentchat import AssistantAgent, UserProxyAgent
 import streamlit as st
 import asyncio
 
