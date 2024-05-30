@@ -1,5 +1,7 @@
 import autogen
-from . import AssistantAgent, UserProxyAgent
+from DemoAgent.assistant_agent import AssistantAgent
+from DemoAgent.user_proxy_agent import UserProxyAgent
+
 import streamlit as st
 import asyncio
 
